@@ -1,0 +1,5 @@
+venv
+build
+dist
+restipy_plugin_test.egg-info
+requirements.txt
